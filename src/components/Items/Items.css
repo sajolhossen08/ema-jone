@@ -1,0 +1,13 @@
+.item{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.item-name{
+    color: rgb(3, 113, 150);
+    font-weight: 400px;
+}
+.img{
+    margin-right: 10px;
+}
